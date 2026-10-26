@@ -29,7 +29,6 @@ I'm a software developer with a Master's in Information Engineering from Kiel Un
 
 **AI / scientific computing:** PyTorch · CUDA · LLM fine-tuning · Time-series analysis
 
-> Adjust this list to reflect technologies you actively use and feel comfortable discussing.
 
 ## 🚀 Selected work
 
