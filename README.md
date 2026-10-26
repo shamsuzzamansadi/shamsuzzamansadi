@@ -40,14 +40,28 @@ I'm a software developer with a Master's in Information Engineering. I work acro
 | **Systems engineering** | Linux tooling, C++ applications, containerized workflows, and software quality. |
 
 <!-- When you have public repositories to highlight, replace the table above or add links here. -->
+## 📚 Selected publications
+
+My academic work includes ontology engineering, semantic technologies, and network security.
+
+1. **The Quranic Nature Ontology: From SPARQL Endpoint to Java Application and Reasoning**  
+   *International Journal of Innovative Computing*, Vol. 7, Issue 2 (2017).
+
+2. **Applying Ontological Modeling on Quranic 'Nature' Domain**  
+   *7th International Conference on Information and Communication Systems (ICICS)*, IEEE (2016).
+
+3. **A Comparative Study of WLAN Security Protocols: WPA, WPA2**  
+   *International Conference on Advances in Electrical Engineering (ICAEE)*, IEEE (2015).
+
+<!-- Add verified DOI, IEEE Xplore, or publisher links to each publication when available. -->
 
 ## 📊 GitHub activity
 
 <div align="center">
 
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=shamsuzzamansadi&show_icons=true&theme=github_dark)
 
-![Most used languages](https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
+![Most used languages](https://github-stats-extended.vercel.app/api/top-langs/?username=shamsuzzamansadiE&layout=compact&theme=github_dark)
 
 </div>
 
@@ -55,8 +69,11 @@ I'm a software developer with a Master's in Information Engineering. I work acro
 
 ## 📫 Connect
 
-- **GitHub:** https://github.com/YOUR_USERNAME
-- **LinkedIn:** YOUR_LINKEDIN_URL
+- **GitHub:** https://github.com/shamsuzzamansadi
+- **LinkedIn:** https://www.linkedin.com/in/shamsuzzamansadi/
+- **Gitlab:** https://gitlab.com/shamsuzzamansadi
+- **Email:** abmsadi06@gmail.com
+- **Xing:** https://www.xing.com/profile/ABMShamsuzzaman_Sadi/
 
 ---
 
