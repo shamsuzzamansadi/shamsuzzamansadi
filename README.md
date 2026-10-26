@@ -23,7 +23,7 @@ I'm a software developer with a Master's in Information Engineering. I work acro
 
 ## 🧰 Technology stack
 
-**Languages:** C++ · Python · Bash · SQL
+**Languages:** Python · JavaScript · C++ · PHP · TypeScript · Bash · SQL · Java
 
 **Platforms & tools:** Linux · Git · Docker · Podman · WSL2 · CMake
 
