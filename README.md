@@ -6,8 +6,10 @@
 
 *Building reliable software, reproducible machine-learning systems, and tools for scientific computing.*
 
-[![GitHub profile](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
-
+[![GitHub profile](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/shamsuzzamansadi)
+[![GitLab](https://img.shields.io/badge/GitLab-Profile-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/shamsuzzamansadi)
+[![XING](https://img.shields.io/badge/XING-Profile-006567?style=flat-square&logo=xing&logoColor=white)](https://www.xing.com/profile/ABMShamsuzzaman_Sadi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamsuzzamansadi/)
 </div>
 
 ---
