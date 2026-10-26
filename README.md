@@ -27,7 +27,7 @@ I'm a software developer with a Master's in Information Engineering from Kiel Un
 
 **Languages:** Python · JavaScript · C++ · PHP · TypeScript · Bash · SQL · Java
 
-**Platforms & tools:** Linux · Git · Docker · Podman · WSL2 · CMake
+**Platforms & tools:** Linux · Git · Docker · Podman · SDKMan · CMake · Composer · npm · uv
 
 **AI / scientific computing:** PyTorch · CUDA · LLM fine-tuning · Time-series analysis
 
