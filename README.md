@@ -61,7 +61,7 @@ My academic work includes ontology engineering, semantic technologies, and netwo
 
 ![GitHub stats](https://github-stats-extended.vercel.app/api?username=shamsuzzamansadi&show_icons=true&theme=github_dark)
 
-![Most used languages](https://github-stats-extended.vercel.app/api/top-langs/?username=shamsuzzamansadiE&layout=compact&theme=github_dark)
+![Most used languages](https://github-stats-extended.vercel.app/api/top-langs/?username=shamsuzzamansadi&layout=compact&theme=github_dark)
 
 </div>
 
