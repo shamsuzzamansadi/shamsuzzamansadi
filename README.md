@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About me
 
-I'm a software developer with a Master's in Information Engineering. I work across software engineering, requirements analysis, and practical problem-solving—from understanding user needs to delivering maintainable solutions.
+I'm a software developer with a Master's in Information Engineering from Kiel University of Applied Science. I work across software engineering, requirements analysis, and practical problem-solving—from understanding user needs to delivering maintainable solutions.
 
 - 🔭 **Currently exploring:** reproducible LLM fine-tuning, experiment validation, and GPU-accelerated ML workflows.
 - 🧠 **Research interests:** time-series analysis, anomaly detection on small datasets, and scientific image/microstructure analysis.
